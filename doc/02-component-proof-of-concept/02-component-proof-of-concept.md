@@ -121,7 +121,6 @@ I have choosing the DogWalker component as my design for the main reason that I 
 > we'll want a branch that you can later make a pull request from with all
 > your changes.
 
-<!-- TODO: make a new branch from main then delete this comment -->
 
 ## Assignment Tasks
 
@@ -148,7 +147,6 @@ completed the assignment.
 
 ### Changelog
 
-<!-- TODO: update CHANGELOG then delete this comment -->
 
 At the end of every assignment, you should update the
 [CHANGELOG.md](../../CHANGELOG.md) file found in the root of the project folder.
@@ -183,7 +181,6 @@ request merge (or at least tag your commits). This is not required.
 
 ### Submission
 
-<!-- TODO: read the submission instructions then delete this comment -->
 
 Assuming that your project is in a GitHub repo somewhere and your changes are on
 a proof-of-concept branch, then what we'll want you to do is create a pull
